@@ -1,6 +1,5 @@
 # Project: Quick Sort by David Childerhose
-![alt text](./image/readmeimage.png?raw=true)
-![alt text](image/readmeimage.png?raw=true)
+
 ![alt text](./image/readmeimage.PNG?raw=true)
 
 # Project: Visualize Sorting Algorithms
