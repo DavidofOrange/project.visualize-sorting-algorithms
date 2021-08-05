@@ -18,7 +18,6 @@ class Sort {
     }
     return this.sort(lessThanArray).concat(pivot, this.sort(greaterThanArray));
   }
-
   returnValue(value) {
     return value;
   }

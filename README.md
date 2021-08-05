@@ -1,3 +1,7 @@
+# Project: Quick Sort by David Childerhose
+
+![alt text](./image/readmeimage.png?raw=true)
+
 # Project: Visualize Sorting Algorithms
 
 This will be your first solo project! For this project, you will be implementing a sorting algorithm, creating a front-end visualization of the sorting algorithm, and presenting it to your class.
@@ -18,10 +22,6 @@ This solo project is divided into three parts:
 - Making it work
 
 ## Environment
-
-### Getting Started
-
-This repository is your very own! Before you get going, take a look through the files, starting with `package.json` and `app.js` and following the trail of files!
 
 ### Installing Dependencies and Set Up
 

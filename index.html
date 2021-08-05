@@ -3,25 +3,22 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>Code Chrysalis</title>
+    <title>QuickSort Algorithm</title>
   </head>
-
   <body>
-    <div id="title"></div>
+    <h1 id="title"></h1>
+    <h2 class="input_array">Input Array</h2>
     <form>
-      <label for="name" class="input_array">Input Array</label>
-      <input type="text" id="input1" placeholder="number" />
-      <input type="text" id="input2" placeholder="number" />
-      <input type="text" id="input3" placeholder="number" />
-      <input type="text" id="input4" placeholder="number" />
-      <input type="text" id="input5" placeholder="number" />
-      <input type="text" id="input6" placeholder="number" />
-      <button id="submit">Submit</button>
+      <input type="text" id="input1" placeholder="#1" />
+      <input type="text" id="input2" placeholder="#2" />
+      <input type="text" id="input3" placeholder="#3" />
+      <input type="text" id="input4" placeholder="#4" />
+      <input type="text" id="input5" placeholder="#5" />
+      <input type="text" id="input6" placeholder="#6" />
+      <button type="button" id="submit">Submit</button>
     </form>
-    <!--
-    Where is this public/bundle.js file coming from?
-    It comes from our trusty friend, webpack.
-  -->
+    <div id="array"></div>
+    <div id="sorted_array"></div>
     <script type="text/javascript" src="/public/bundle.js"></script>
   </body>
 </html>
